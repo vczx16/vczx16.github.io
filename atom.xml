@@ -1,14 +1,15 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://example.com</id>
-    <title>Hexo</title>
-    <subtitle></subtitle>
+    <title>咕咕鸡的博客</title>
+    <subtitle>咕咕鸡的博客</subtitle>
     <icon>http://example.com/images/favicon.ico</icon>
     <link href="http://example.com" />
     <author>
-      <name>John Doe</name>
+      <name>vczx16</name>
     </author>
     <updated>2023-06-06T06:25:39.599Z</updated>
+    <category term="博客，笔记" />
     <entry>
         <id>http://example.com/2023/06/06/hello-world/</id>
         <title>Hello World</title>

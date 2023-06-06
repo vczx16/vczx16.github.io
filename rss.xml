@@ -1,17 +1,18 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>Hexo</title>
-        <subtitle></subtitle>
+        <title>咕咕鸡的博客</title>
+        <subtitle>咕咕鸡的博客</subtitle>
         <icon>http://example.com/images/favicon.ico</icon>
         <link>http://example.com</link>
         <author>
-          <name>John Doe</name>
+          <name>vczx16</name>
         </author>
-        <description></description>
-        <language>en</language>
+        <description>咕咕鸡的博客</description>
+        <language>zh-CN</language>
         <pubDate>Tue, 06 Jun 2023 14:25:39 +0800</pubDate>
         <lastBuildDate>Tue, 06 Jun 2023 14:25:39 +0800</lastBuildDate>
+        <category term="博客，笔记" />
         <item>
             <guid isPermalink="true">http://example.com/2023/06/06/hello-world/</guid>
             <title>Hello World</title>
