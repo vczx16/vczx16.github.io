@@ -8,8 +8,15 @@
     <author>
       <name>vczx16</name>
     </author>
-    <updated>2023-06-06T06:25:39.599Z</updated>
+    <updated>2023-06-06T08:10:14.000Z</updated>
     <category term="博客，笔记" />
+    <entry>
+        <id>http://example.com/2023/06/06/%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%90%AF%E4%BA%86/</id>
+        <title>博客开启了</title>
+        <link rel="alternate" href="http://example.com/2023/06/06/%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%90%AF%E4%BA%86/"/>
+        <content type="html"></content>
+        <updated>2023-06-06T08:10:14.000Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/2023/06/06/hello-world/</id>
         <title>Hello World</title>
